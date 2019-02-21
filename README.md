@@ -1,7 +1,7 @@
 # todos
 感兴趣的一些项目和话题 
 
-### [从零开始构建一个SPA应用](https://github.com/youkinn/spa-demo)
+### [从零开始构建一个SPA应用](https://github.com/youkinn/spa-demo/wiki)
 ### [js设计模式学习](https://github.com/youkinn/pattern)
 ### [常见数据结构的js实现](https://github.com/youkinn/reading)
 ### [尝试用二叉树模拟dom](https://github.com/youkinn/vdom)
